@@ -1,0 +1,1 @@
+# mentx_cut_barber
